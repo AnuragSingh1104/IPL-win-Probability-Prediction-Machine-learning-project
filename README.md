@@ -48,7 +48,7 @@ How to Run
 
 Clone the repository:
 
-git clone https://github.com/yourusername/IPL-Win-Predictor.git
+git clone https://github.com/AnuragSingh1104/IPL-Win-Predictor.git
 cd IPL-Win-Predictor
 
 Install dependencies:
